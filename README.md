@@ -33,8 +33,8 @@ Canva
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas em `Capa`
+- Ebook gerado em `Ebook Bootcamp`
 
 ## 🛠️ Instruções de execução
 
