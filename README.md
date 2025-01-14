@@ -23,7 +23,7 @@ ChatGPT
 
 Canva
 
-|  Ação  | prompt:
+|  Ação  | prompt: 
 
 
 ## ✨ Features
