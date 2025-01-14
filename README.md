@@ -38,4 +38,4 @@ Canva
 
 ## 🛠️ Instruções de execução
 
-Utilizado os prompts acima nas ferramentas para gerar o material base, utilizando ferramenta de edição de documentos do powerpoint.
+Utilizado os prompts nas ferramentas para gerar o material base e utilizando ferramenta de edição de documentos no powerpoint.
